@@ -1,0 +1,11 @@
+public class Variableconstant{
+    
+    public static final ValueOfPi = 3.142;
+    
+    public static void main(String[] args){
+    
+        System.out.println("Value of PI is :-\t"+ValueOfPi);
+        
+    }
+
+}
